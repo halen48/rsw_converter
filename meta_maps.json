@@ -1,0 +1,242 @@
+{
+    "jor_back1": {
+        "Water": {
+            "Level": 20,
+            "Type": 10,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "jor_back2": {
+        "Water": {
+            "Level": -5.0,
+            "Type": 10,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "jor_back3": {
+        "Water": {
+            "Level": 0,
+            "Type": 10,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "jor_tail": {
+        "Water": {
+            "Level": 20,
+            "Type": 10,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "1@exds": {
+        "Water": {
+            "Level": 60,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "1@exhn": {
+        "Water": {
+            "Level": 60,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "1@iwp": {
+        "Water": {
+            "Level": 20,
+            "Type": 10,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "1@jorchs": {
+        "Water": {
+            "Level": 20,
+            "Type": 9,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "bl_death": {
+        "Water": {
+            "Level": 60,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "bl_lava": {
+        "Water": {
+            "Level": 60,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "bl_temple": {
+        "Water": {
+            "Level": 0,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "bl_venon": {
+        "Water": {
+            "Level": 100,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "hero_dun01": {
+        "Water": {
+            "Level": 100,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "hero_in1": {
+        "Water": {
+            "Level": 100,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "hero_in2": {
+        "Water": {
+            "Level": 0,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "hero_out1": {
+        "Water": {
+            "Level": 100,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "hero_out2": {
+        "Water": {
+            "Level": 0,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "icecastle": {
+        "Water": {
+            "Level": 10,
+            "Type": 10,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "jor_ab01": {
+        "Water": {
+            "Level": 100,
+            "Type": 9,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "jor_dun01": {
+        "Water": {
+            "Level": 100,
+            "Type": 9,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "jor_nest": {
+        "Water": {
+            "Level": 25,
+            "Type": 9,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "ptr_elib": {
+        "Water": {
+            "Level": 90,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "ptr_mz03_i": {
+        "Water": {
+            "Level": 90,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    },
+    "default": {
+        "Water": {
+            "Level": 20,
+            "Type": 0,
+            "WaveHeight": 1,
+            "WaveSpeed": 2,
+            "WavePitch": 50,
+            "TextureCycling": 3
+        }
+    }
+}
